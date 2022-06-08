@@ -1,0 +1,18 @@
+
+
+
+Steps to follow:
+
+
+from new:
+
+    conda create -n mask_rcnn python=3.6
+
+    conda activate mask_rcnn
+
+    conda install -c anaconda cudnn=7.6.0--yes 
+
+	-con esto se instalara cuda 10.0 también
+
+    pip install -r Requeriments.txt
+   
